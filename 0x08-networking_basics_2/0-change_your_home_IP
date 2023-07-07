@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# configure a server as per the given instructions
 
 cp /etc/hosts ~/hosts.new
 echo "127.0.0.2		localhost" > ~/hosts.new
